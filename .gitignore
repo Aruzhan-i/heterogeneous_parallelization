@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+test.cpp
+
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+
+# VS / VS Code
+.vscode/
+*.vcxproj*
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
