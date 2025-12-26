@@ -9,13 +9,3 @@
 # 📑 Содержание
 
 
-```mermaid
-graph TD
-    A[Start: Host Memory] --> B[Initialize Random Data]
-    B --> C[CUDA Malloc]
-    C --> D[Kernel: blockSort]
-    D --> E[Kernel: mergeKernel]
-    E --> F[DeviceToHost Memcpy]
-    F --> G[End]
-```
-
