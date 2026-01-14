@@ -2,6 +2,8 @@
 *.exe
 *.out
 *.app
+*.exp
+*.lib
 test.cpp
 
 
