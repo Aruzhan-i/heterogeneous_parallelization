@@ -5,6 +5,7 @@
 *.exp
 *.lib
 test.cpp
+results/
 
 
 # Object files
