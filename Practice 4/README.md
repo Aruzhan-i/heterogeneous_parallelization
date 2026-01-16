@@ -13,7 +13,7 @@
   - [Блок схема](#task4-schema)
   - [Вывод терминала](#task4-output)
   - [Графики](#task4-charts)
-- [Контрольные вопросы] (#control-questions)
+- [Контрольные вопросы](#control-questions)
 
 
 <a id="task1"></a>
