@@ -1,3 +1,4 @@
+// task_1_kernel.cl
 __kernel void vector_add(__global const float* A,
                          __global const float* B,
                          __global float* C)
