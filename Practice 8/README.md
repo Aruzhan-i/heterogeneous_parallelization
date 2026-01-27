@@ -320,11 +320,11 @@ $T_{hybrid} \approx \max(T_{CPU(half)},; T_{GPU(half; pipeline)}) + overhead$
 <a id="task-extra-block"></a>
 ## Блок схема
 
-![alt text](task_extra_block_schema.svg)
+![alt text](task_extra_benchmark_block_schema.svg)
 
 <a id="task-extra-terminal"></a>
 ## Вывод Терминала
-![alt text](task_extra_terminal_output.png)
+![alt text](task_extra_benchmark_terminal_output.png)
 
 
 <a id="task-extra-result"></a>
@@ -342,11 +342,11 @@ $T_{hybrid} \approx \max(T_{CPU(half)},; T_{GPU(half; pipeline)}) + overhead$
 <a id="task-extra2-block"></a>
 ## Блок схема
 
-![alt text](task_extra_block_schema.svg)
+![alt text](task_extra_cpu_add_gpu_block_schema.svg)
 
 <a id="task-extra2-terminal"></a>
 ## Вывод Терминала
-![alt text](task_extra_terminal_output.png)
+![alt text](task_extra_cpu_add_gpu_mul_terminal_output.png)
 
 
 <a id="task-extra2-result"></a>
